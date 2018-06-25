@@ -1,6 +1,6 @@
-# 技术博客
+# 技术博客 -I'm Mandy, I love AI. 
 
-My name is Mandy, I love AI. 这是我业余时间帮助中科院自动化所专知团队写的一些微信公众号节选（包括翻译和原创），希望可以与大家互相学习，互相交流。欢迎关注**专知**公众号：Quan_Zhuanzhi
+这是我业余时间帮助中科院自动化所专知团队写的一些微信公众号节选（包括翻译和原创），希望可以与大家互相学习，互相交流。同时欢迎大家关注**专知**公众号：Quan_Zhuanzhi
 
 **1.【Python实战】无监督学习—聚类、层次聚类、t-SNE，DBSCAN**
 - https://mp.weixin.qq.com/s/E0INxsn_p-MBNA-wg-2nbQ
