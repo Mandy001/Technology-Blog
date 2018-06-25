@@ -1,6 +1,6 @@
 # 技术博客 - I am Mandy, I love AI. 
 
-这是我业余时间帮助中科院自动化所专知团队写的一些微信公众号节选（包括翻译和原创），希望可以与大家互相学习，互相交流。同时欢迎大家关注**专知**公众号：Quan_Zhuanzhi
+这是我和中科院自动化所专知团队一起写的一些微信公众号节选（包括翻译和原创），希望可以与大家互相学习，互相交流。同时欢迎大家关注专知公众号：Quan_Zhuanzhi
 
 **1.【Python实战】无监督学习—聚类、层次聚类、t-SNE，DBSCAN**
 - https://mp.weixin.qq.com/s/E0INxsn_p-MBNA-wg-2nbQ
@@ -28,9 +28,6 @@
 
 **9. 【NLP专题】斯坦福CS224n课程笔记01：自然语言处理与深度学习简介**
 - https://mp.weixin.qq.com/s/LLXKj9WXws8yIHpGIYZk9Q
-
-**10. 一部人工智能的口述史，人工智能先驱们Hinton, Bengio, Lecun等人的访谈实录**
-- https://mp.weixin.qq.com/s/iCPq3oOcBJD4G5TUANDlqw
 
 **10. 一部人工智能的口述史，人工智能先驱们Hinton, Bengio, Lecun等人的访谈实录**
 - https://mp.weixin.qq.com/s/iCPq3oOcBJD4G5TUANDlqw
